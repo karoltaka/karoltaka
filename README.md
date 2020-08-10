@@ -1,17 +1,15 @@
 # Karoline Takahagassi
-### Hi there 👋
 
-<!--
-**karoltaka/karoltaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
 
-Here are some ideas to get you started:
+Sou uma FullStack Developer :computer:
+<br />
+Adoro promover soluções utilizando a programação!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:rocket: &nbsp; Buscando novos desafios
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos desafiadores
+<br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+<br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar LoL com amigos e assistir seriados.
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-KarolineTakahagassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karoline-takahagassi-b9ba4b1ab/)](https://www.linkedin.com/in/karoline-takahagassi-b9ba4b1ab/)
+|
+[![Gmail Badge](https://img.shields.io/badge/-takahagassi.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:takahagassi.dev@gmail.com)](mailto:takahagassi.dev@gmail.com)
