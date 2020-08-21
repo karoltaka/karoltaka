@@ -8,7 +8,8 @@ Adoro promover soluções utilizando a programação!
 
 :rocket: &nbsp; Buscando novos desafios
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos desafiadores
-<br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+<br/> :computer: &nbsp; Minha stack: HTML, CSS e JavaScript
+<br /> :blue_book: &nbsp; Estudando: ReactJS, Node.js, React Native & Typescript
 <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar LoL com amigos e assistir seriados.
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-KarolineTakahagassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karoline-takahagassi-b9ba4b1ab/)](https://www.linkedin.com/in/karoline-takahagassi-b9ba4b1ab/)
 |
