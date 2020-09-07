@@ -1,4 +1,4 @@
-# Karoline Takahagassi
+# Karoline
 
 ## Olá pessoal 👋
 
